@@ -249,6 +249,6 @@ Estou aberto a trocar ideias sobre tecnologia, programação, projetos e aprendi
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e7490,100:2563eb&height=120&section=footer" width="100%" alt="Rodapé decorativo">
 
-  **Construindo conhecimento, um projeto de cada vez.** 🚀
+  **Construindo conhecimento, um projeto de cada vez.* 🚀
 
 </div>
