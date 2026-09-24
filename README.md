@@ -4,15 +4,18 @@
 
   <br>
 
+  `RAY TECH // PROFILE 01`
+
   # 👋 Olá, eu sou Franz Kramer!
 
-  ### 💻 Desenvolvedor em formação | Tecnologia • Código • Inovação
+  ### 💻 Desenvolvedor em formação | Software • Automação • Soluções digitais
 
-  **Transformando curiosidade em conhecimento e ideias em projetos.**
+  **Construindo soluções com curiosidade, lógica e visão de futuro.**
 
   <p>
-    Estudante de tecnologia, apaixonado por aprender, explorar novas ferramentas
-    e desenvolver soluções que unem criatividade e programação.
+    Estudante de Análise e Desenvolvimento de Sistemas no SESI/SENAI,
+    focado em transformar aprendizado técnico em experiências digitais úteis,
+    organizadas e prontas para evoluir.
   </p>
 
   <a href="https://github.com/franzkramerfr-dev">
@@ -32,37 +35,48 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou estudante de tecnologia e desenvolvedor em formação, construindo minha trajetória por meio de estudos, experiências práticas e projetos próprios.
+Sou estudante de tecnologia e desenvolvedor em formação, construindo uma base sólida em programação, desenvolvimento de sistemas e resolução de problemas.
 
-Atualmente, estou desenvolvendo minha base em programação e desenvolvimento de sistemas no ambiente **SESI/SENAI**, buscando transformar o conhecimento adquirido em soluções reais.
+No ambiente **SESI/SENAI**, venho transformando conceitos em prática e desenvolvendo a mentalidade necessária para criar software com clareza, organização e propósito.
 
-Gosto de entender como a tecnologia funciona, experimentar novas ideias e enfrentar desafios que me ajudem a evoluir como desenvolvedor.
+Gosto de entender o problema antes de escrever o código, explorar novas ferramentas e evoluir por meio de desafios que aproximam estudo e realidade profissional.
 
 - 🎓 **Formação:** Estudante de Análise e Desenvolvimento de Sistemas.
 - 🌱 **Aprendizado:** Fundamentos de programação, lógica e desenvolvimento de software.
 - 🔍 **Interesses:** Tecnologia, automação, inovação e resolução de problemas.
 - 🛠️ **Prática:** Projetos acadêmicos, experimentos e desenvolvimento pessoal.
-- 🎯 **Objetivo:** Construir aplicações úteis e aprimorar continuamente minhas habilidades.
+- 🎯 **Objetivo:** Contribuir com equipes que valorizem aprendizado, inovação e soluções bem construídas.
+
+### ⚡ Meu diferencial
+
+Ainda estou no início da carreira, mas já desenvolvo uma postura profissional: aprendo rápido, documento o que faço, busco entender o contexto e trato cada desafio como uma oportunidade de melhorar a solução e a mim mesmo.
+
+```text
+PENSAMENTO       Ação com propósito, não código por código
+APRENDIZADO      Curiosidade convertida em prática
+DESENVOLVIMENTO  Clareza, organização e evolução contínua
+AMBIENTE IDEAL   Times que compartilham conhecimento
+```
 
 ---
 
-## 🚀 Atualmente
+## 🚀 Momento atual
 
 <div align="center">
 
-| 📚 Estudando | 💻 Desenvolvendo | 🎯 Buscando |
+| 📚 Estudando | 💻 Praticando | 🎯 Construindo |
 |:---:|:---:|:---:|
-| Fundamentos de programação | Projetos práticos | Evolução técnica |
+| Fundamentos de programação | Projetos práticos | Repertório técnico |
 | Lógica e algoritmos | Aplicações e experimentos | Boas práticas |
-| Ferramentas de desenvolvimento | Documentação | Novos desafios |
+| Ferramentas de desenvolvimento | Documentação | Conexões profissionais |
 
 </div>
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## 🛠️ Stack em evolução
 
-As tecnologias abaixo representam ferramentas que estou explorando, estudando ou utilizando em meus projetos. Minha experiência com cada uma delas continua evoluindo.
+Estas são as tecnologias e ferramentas que fazem parte da minha rotina de estudos e prática. Estou construindo profundidade com consistência, sempre priorizando fundamentos antes de ampliar a stack.
 
 ### 💡 Linguagens de programação
 
@@ -100,65 +114,6 @@ As tecnologias abaixo representam ferramentas que estou explorando, estudando ou
 
 ---
 
-## 📂 Projetos em destaque
-
-Aqui estão alguns espaços para apresentar os projetos que representam minha evolução e minhas experiências com programação.
-
-> **Personalize esta seção:** substitua os exemplos pelos links dos seus repositórios reais e descreva o que você efetivamente desenvolveu em cada um.
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">💻 Projeto em destaque 1</h3>
-      <p align="center">
-        <a href="LINK_DO_REPOSITORIO_1">
-          <img src="https://img.shields.io/badge/Ver%20projeto-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Ver projeto">
-        </a>
-      </p>
-      <p align="center">
-        Descreva aqui seu projeto principal, o problema que ele resolve e as tecnologias que você utilizou.
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🐍 Projeto em destaque 2</h3>
-      <p align="center">
-        <a href="LINK_DO_REPOSITORIO_2">
-          <img src="https://img.shields.io/badge/Ver%20projeto-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Ver projeto">
-        </a>
-      </p>
-      <p align="center">
-        Apresente aqui uma aplicação ou exercício mais completo que demonstre suas habilidades em programação.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">⚡ Projeto em destaque 3</h3>
-      <p align="center">
-        <a href="LINK_DO_REPOSITORIO_3">
-          <img src="https://img.shields.io/badge/Ver%20projeto-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Ver projeto">
-        </a>
-      </p>
-      <p align="center">
-        Mostre aqui um projeto acadêmico ou pessoal e explique sua contribuição e seus aprendizados.
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📚 Estudos e exercícios</h3>
-      <p align="center">
-        <a href="LINK_DO_REPOSITORIO_4">
-          <img src="https://img.shields.io/badge/Ver%20repositório-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório">
-        </a>
-      </p>
-      <p align="center">
-        Repositório para registrar exercícios, desafios de lógica e experimentos realizados durante os estudos.
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🧭 Minha jornada de aprendizagem
 
 Acredito que a evolução na programação acontece por meio de um processo constante de aprendizado, experimentação e melhoria.
@@ -173,13 +128,13 @@ flowchart TD
     F --> G["✨ Aprimoramento"]
     G --> B
 
-    style A fill:#0f766e,stroke:#14b8a6,color:#ffffff
-    style B fill:#1e40af,stroke:#60a5fa,color:#ffffff
-    style C fill:#1e40af,stroke:#60a5fa,color:#ffffff
-    style D fill:#1e40af,stroke:#60a5fa,color:#ffffff
-    style E fill:#0f766e,stroke:#14b8a6,color:#ffffff
-    style F fill:#334155,stroke:#94a3b8,color:#ffffff
-    style G fill:#0f766e,stroke:#14b8a6,color:#ffffff
+    style A fill:#082f49,stroke:#22d3ee,color:#ffffff
+    style B fill:#0c4a6e,stroke:#38bdf8,color:#ffffff
+    style C fill:#0c4a6e,stroke:#38bdf8,color:#ffffff
+    style D fill:#0c4a6e,stroke:#38bdf8,color:#ffffff
+    style E fill:#082f49,stroke:#22d3ee,color:#ffffff
+    style F fill:#164e63,stroke:#67e8f9,color:#ffffff
+    style G fill:#082f49,stroke:#22d3ee,color:#ffffff
 ```
 
 ### 📌 Próximos objetivos
