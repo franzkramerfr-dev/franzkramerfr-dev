@@ -1,7 +1,5 @@
 <div align="center">
 
-# Olá, eu sou Franz Kramer 👋
-
 <img src="assents/banner-franz.png" alt="Banner de apresentação de Franz Kramer" width="100%">
 
 ### Desenvolvedor em formação | Tecnologia, aprendizagem e construção de soluções
