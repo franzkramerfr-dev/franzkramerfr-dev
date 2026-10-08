@@ -1,6 +1,6 @@
  <div align="center">
 
-  <img src="assets/banner-franz.png" alt="Banner de Franz Kramer" width="100%">
+  <img src="assents/banner-franz.png" alt="Banner de Franz Kramer" width="100%">
 
   <br>
 
